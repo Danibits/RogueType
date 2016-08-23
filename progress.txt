@@ -1,0 +1,20 @@
+-Mudei o laranja para azul no css
+-Tornei a pagina "perfil" na pagina "Dados do consumidor"
+-Copiei a pagina perfil para uma outra com nome "dados do consumidor" e outra "consumo". que eu também ja ediei (Falta testar)
+-mesma coisa para "Dados Do Estabelecimento"
+-Pagina "perfil do estabelecimento" mal definida, perguntar a respeito.
+
+
+
+-auditoria
+-cod de barras
+-estabelecimento(tem tanto a dados quanto a perfil)
+-*gravar audio // n é pra fazer
+
+
+-marca comprada
+-visibilidade
+-auditoria
+-dados do consumidor
+-consumo
+-descrição do produto
